@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Urbanist:wght@100&display=swap');
+
+body{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Urbanist', sans-serif;
+    background-image: url('https://img.freepik.com/free-vector/white-abstract-background_23-2148810113.jpg?w=1380&t=st=1668517665~exp=1668518265~hmac=04b4d388bf8e33eef1f4979b7e03992f7b43c040633e3eba38ea07eafe1c9dcb');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.form-group{
+    text-align: justify;
+    padding: 0 3em;
+    margin-top: 1em;
+
+}
+
+.center-div{
+    padding-top: 10%;
+}
+
+.btn.btn-success{
+    padding: .4em 2em;
+    margin-top: 5%;
+    
+}
+
+.font-weight-bold{
+    font-weight: bold;
+}
+
+#container{
+    background-color: white;
+}
